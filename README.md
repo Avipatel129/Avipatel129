@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Graduated in Bachelor of technology in Information Technology</h2>
+<p>align="left">Graduated in Bachelor of technology in Information Technology</p>
 <!--
 <h2 align="left">About me</h2>
 
